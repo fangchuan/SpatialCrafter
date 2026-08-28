@@ -3,7 +3,7 @@
 <div align="center">
 
 [![Project Page](https://img.shields.io/badge/Project-Page-green?style=flat-square&logo=googlechrome)](https://fangchuan.github.io/SpatialCrafter)
-[![arXiv](https://img.shields.io/badge/arXiv-Paper-red?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2506.xxxxx)
+[![arXiv](https://img.shields.io/badge/arXiv-Paper-red?style=flat-square&logo=arxiv)](https://arxiv.org/pdf/2608.27073)
 [![HuggingFace Model](https://img.shields.io/badge/🤗%20HuggingFace-Model-yellow?style=flat-square)](https://huggingface.co/SpatialCrafter)
 [![HuggingFace Dataset](https://img.shields.io/badge/🤗%20HuggingFace-Dataset-blue?style=flat-square)](https://huggingface.co/datasets/SpatialCrafter)
 
