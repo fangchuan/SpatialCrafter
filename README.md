@@ -1,5 +1,6 @@
 # SpatialCrafter: Single Image World Modeling with Generative 3D Proxies
 
+# This repo has been moved to [https://github.com/manycore-research/SpatialCrafter](https://github.com/manycore-research/SpatialCrafter), please visit the new repository for the latest updates.
 
 <div align="center" style="margin-top: 0; padding-top: 0; line-height: 1;">
     <a href="https://fangchuan.github.io/SpatialCrafter" target="_blank" style="margin: 2px;"><img alt="Project"
